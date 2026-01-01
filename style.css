@@ -584,3 +584,19 @@ img{
 .fa-solid{
     transform: scale(2);
 }
+
+ @media (min-width:200px) and (max-width:1000px){
+    .fix-scroll{
+       height: 80px;
+   width: 80px;
+    position: sticky;
+   left: 90vw;
+   bottom: 20px;
+ }
+ }
+
+ @media (min-width:200px) and (max-width:1000px){
+   .contact-container{
+     height: 500px;
+   }
+ }
