@@ -117,6 +117,18 @@ img{
   border-radius: 30px;
 }
 
+@media (min-width:1300px) and (max-width:1700px){
+   .img-split-box{
+     max-width: 1200px;
+   }
+}
+
+@media (min-width:1700px) and (max-width:3000px){
+   .img-split-box{
+     max-width: 1800px;
+   }
+}
+
 /* REAL IMAGE */
 .img-split-box img {
   width: 100%;
