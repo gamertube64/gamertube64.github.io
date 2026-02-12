@@ -613,13 +613,3 @@ img{
    }
  }
 
- .snow{
-  height: 4500px;
-  width: 99%;
-   position: absolute;
-  top: 0px;
-  left: 0px;
-  pointer-events: none;
-  z-index: 999;
-  filter: opacity(0.5);
- }
